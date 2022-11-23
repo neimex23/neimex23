@@ -15,8 +15,7 @@ I love the programming and gaming.
 
 ### Hobbies
 - 💻 I'm Gamer i love play videogames, i love art and tecnical things about all about this topic, i'm hardcore gamer in fact my principal kind of plays is about NoHit, Do a game from start until finish without take any Damage, I am part of the community called Team Hitless. 
-<img src="https://www.teamhitless.com/wp-content/uploads/2020/09/full_logo.png" alt="drawing" width="100"/>
-[Profile Runs](https://www.teamhitless.com/project/Neimex23/)
+<img src="https://www.teamhitless.com/wp-content/uploads/2020/09/full_logo.png" alt="drawing" width="100"/> [Profile](https://www.teamhitless.com/project/Neimex23/)
 
 - 🎧 I'm Pianist i love the music and play a hard and beautiful sheets of Classicals and VideoGames OST
 - 🎦 I love Movies,Series and Anime a good story is a good time for me
@@ -34,7 +33,6 @@ C and C++ with Poo, Class and Iterators usages.
 WinForms, WPF, .Net Framework 4.8, Multi threading programming, Using of Dlls, and good connections to BackEnd.
 
 
-
 ### Idles Used:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="drawing" width="100"/>
 
@@ -42,7 +40,7 @@ Visual Studio 2022 and Visual Studio Codes, Make Files Creation
 
 ## Others Programs:
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirHxQzoWPUFgJlbSq2gVRsXZjZ_cxygZL7OKlpKk5DI_rWHQf4gGOFh_BKjKax2wb7OY&usqp=CAU" alt="drawing" width="100"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVUTPbOoLSMvhRu6j0X1mUjsmYdSC29rfn3GnTR0NqM4wNcapVjDuQ5iY-VwUEXIq0aA&usqp=CAU" alt="drawing" width="100"/>  <img src="https://edutic.up.edu.pe/wp-content/uploads/2022/02/fotonoticia_20210706110118_1200.jpg" alt="drawing" width="150"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Adobe_Photoshop_Express_logo.svg" alt="drawing" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" alt="drawing" width="100"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Audacity_Logo_With_Name.png" alt="drawing" width="150"/> 
 
 - Media Creator and Editor, i'm Streamer and Youtuber so far, about 7 years
 
