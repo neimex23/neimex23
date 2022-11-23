@@ -49,5 +49,9 @@ Visual Studio 2022 and Visual Studio Codes, Make Files Creation
 
 - Office World 365, some Excel, Google Drive, Gmail, Youtube, Docs, Sheets and Forms
 
+## Certificates
+- Computer Technician to build and repair Laptop and Desktop Computers on Utu Malvin Norte (Inclusion Digital - Antel Usi)
+- Certificate Basic 3 of English on "Your Place" Montevideo, Uruguay
+
 ##
 To the Top not miss the Hope :)
