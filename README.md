@@ -4,11 +4,11 @@ I love the programming and gaming.
 
 - ![🏠](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f3e0/32.png) I'm Living in Montevideo, Uruguay
 
-- ![💁](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f481/32.png) I'm 22 years old and my birthday is 23th December, 1999
+- ![💁](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f481/32.png) I'm 23 years old and my birthday is 23th December, 1999
 
 - ![🌱](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f331/32.png) I’m currently learning Computer Technologist on Escuela Superior de Informática, have arround 100 credits, i have Advanced Programing exonerated between others  
 
-- ![🔭](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f52d/32.png) I'm Unemployed but in search of work. Im noob about Programming but im willing to improve and learn.
+- ![🔭](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f52d/32.png) I'm Working by Repair of PointOfSale Devices. Im noob about Programming but im willing to improve and learn.
 
 - 🔈 I'm Speak Spanish and English, My English is poor but I can defend my selft if you should Speak or write with me in english, my flexibility in the speaking not the best but I can understand the most thing that you say me.
 
@@ -52,6 +52,15 @@ Visual Studio 2022 and Visual Studio Codes, Make Files Creation
 ## Certificates
 - Computer Technician to build and repair Laptop and Desktop Computers on Utu Malvin Norte (Inclusion Digital - Antel Usi)
 - Certificate Basic 3 of English on "Your Place" Montevideo, Uruguay
+
+## Personal Projects
+* **AutoSplitterCore**: Addons of [HitCounterManager](https://github.com/topeterk/HitCounterManager "HitCounterManager") 
+[Program that display Split with Name Information that Count Hits in Games]
+My Addon give the possibility to Automatically split when an event happen in a game.
+  - Developed in: C#
+* **RepairForm**: Program for ResonetSA Enterprise that manage a excel repair of POS by interface with CloseXML Library.
+	- Developed in: C#
+
 
 ##
 To the Top not miss the Hope :)
