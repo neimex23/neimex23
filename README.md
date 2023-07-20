@@ -45,7 +45,7 @@ Visual Studio 2022 and Visual Studio Codes, Make Files Creation
 
 - Media Creator and Editor, i'm Streamer and Youtuber so far, about 7 years
   
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="drawing" width="100"/> 
+<img src ="https://www.formation-cad.com/wp-content/uploads/2023/07/Cours-Formation-CAD-Microsoft-365-Office.png" alt="drawing" width="100"/> 
 
 - Office World 365, some Excel, Google Drive, Gmail, Youtube, Docs, Sheets and Forms
 
