@@ -61,6 +61,10 @@ My Addon give the possibility to Automatically split when an event happen in a g
 * **RepairForm**: Program for ResonetSA Enterprise that manage a excel repair of POS by interface with CloseXML Library.
 	- Developed in: C#
 
+## Donations
+<img src ="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="drawing" width="100"/> 
+If You Like my work and you want support me you can donate here:
+https://ko-fi.com/neimex23
 
 ##
 To the Top not miss the Hope :)
