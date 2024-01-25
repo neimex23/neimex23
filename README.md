@@ -4,7 +4,7 @@ I love the programming and gaming.
 
 - ![🏠](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f3e0/32.png) I'm Living in Montevideo, Uruguay
 
-- ![💁](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f481/32.png) I'm 23 years old and my birthday is 23th December, 1999
+- ![💁](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f481/32.png) I'm 24 years old and my birthday is 23th December, 1999
 
 - ![🌱](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f331/32.png) I’m currently learning Computer Technologist on Escuela Superior de Informática, have arround 100 credits, i have Advanced Programing exonerated between others  
 
