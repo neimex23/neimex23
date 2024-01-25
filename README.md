@@ -33,6 +33,15 @@ C and C++ with Poo, Class and Iterators usages.
 
 WinForms, WPF, .Net Framework 4.8, Multi threading programming, Using of Dlls, and good connections to BackEnd.
 
+<img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="drawing" width="100"/>
+SQL DML and DLL Knowledeage 
+	
+ - PGADmin and MySQL
+   
+<img src="https://www.todopostgresql.com/wp-content/uploads/2018/08/cursoPgAdmin4.png" alt="drawing" width="100"/> <img src="https://banner2.cleanpng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg" alt="drawing" width="100"/>
+
+
+
 
 ### Ides Used:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="drawing" width="100"/>
