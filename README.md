@@ -62,13 +62,20 @@ Visual Studio 2022 and Visual Studio Codes, Make Files Creation
 - Computer Technician to build and repair Laptop and Desktop Computers on Utu Malvin Norte (Inclusion Digital - Antel Usi)
 - Certificate Basic 3 of English on "Your Place" Montevideo, Uruguay
 
-## Personal Projects
+# Personal Projects
 * **AutoSplitterCore**: Addons of [HitCounterManager](https://github.com/topeterk/HitCounterManager "HitCounterManager") 
 [Program that display Split with Name Information that Count Hits in Games]
-My Addon give the possibility to Automatically split when an event happen in a game.
+My Addon give the possibility to Automatically split when an event happen in a game, Using a Threading System and Serialization
   - Developed in: C#
-* **RepairForm**: Program for ResonetSA Enterprise that manage a excel repair of POS by interface with CloseXML Library.
+  - License: MIT (Open Source)
+* **RepairForm**: Program for ResonetSA Enterprise that manage a excel repair of POS, manages repairs and diagnostics of POS equipment. The program facilitates the management of spare parts, dates and budgets, in addition to automating several essential sub-processes. Using CloseXML (Excel Managment), Graph Api (For Login Azure), One Drive Integration (Storage Files).
 	- Developed in: C#
+	- License: Private
+
+## Academy Projects
+- BD2 Obligatorios: Store Procedures, DLL and DML Resolutions on MySql
+- Redes Lab: Web Sockets Resolution on C++
+- Lab-Pav: Poo and iterators usage, Ncapes, Singletons on C++
 
 ## Donations
 <img src ="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="drawing" width="100"/> 
