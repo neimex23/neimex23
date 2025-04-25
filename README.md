@@ -1,87 +1,81 @@
 ## About Me
-I'm Ezequiel Medina. I'm a developer student. 
-I love the programming and gaming.
+Hi! I'm **Ezequiel Medina**, a passionate developer student from Montevideo, Uruguay 🇺🇾.  
+I love programming, solving complex problems, and of course—gaming!
 
-- ![🏠](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f3e0/32.png) I'm Living in Montevideo, Uruguay
+- 🏠 Living in **Montevideo, Uruguay**
+- 💁 25 years old (🎂 Born on December 23, 1999)
+- 🌱 Currently studying **Computer Technologist** at Escuela Superior de Informática  
+  > Over 100 credits completed — Exempted from Advanced Programming and other subjects
+- 🔭 Working on **repair and diagnostics of Point of Sale (POS) devices**
+- 🔈 I speak **Spanish and English** (my English is not perfect, but I'm always improving!)
 
-- ![💁](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f481/32.png) I'm 24 years old and my birthday is 23th December, 1999
+---
 
-- ![🌱](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f331/32.png) I’m currently learning Computer Technologist on Escuela Superior de Informática, have arround 100 credits, i have Advanced Programing exonerated between others  
+### 🎮 Hobbies
+- 💻 I'm a **hardcore gamer**, passionate about No-Hit challenges (completing games without taking any damage).  
+  Member of the **Team Hitless** community!  
+  <img src="https://www.teamhitless.com/wp-content/uploads/2020/09/full_logo.png" alt="Team Hitless Logo" width="100"/> [My Profile](https://www.teamhitless.com/project/Neimex23/)
 
-- ![🔭](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f52d/32.png) I'm Working by Repair of PointOfSale Devices. Im noob about Programming but im willing to improve and learn.
+- 🎧 I'm also a **pianist**, I love classical and video game soundtracks  
+- 🎦 Big fan of **movies, series, and anime** — a great story is always a good time
 
-- 🔈 I'm Speak Spanish and English, My English is poor but I can defend my selft if you should Speak or write with me in english, my flexibility in the speaking not the best but I can understand the most thing that you say me.
+---
 
+## 👨‍💻 Knowledge
 
-### Hobbies
-- 💻 I'm Gamer i love play videogames, i love art and tecnical things about all about this topic, i'm hardcore gamer in fact my principal kind of plays is about NoHit, Do a game from start until finish without take any Damage, 
-I am part of the community called Team Hitless. 
-<img src="https://www.teamhitless.com/wp-content/uploads/2020/09/full_logo.png" alt="drawing" width="100"/> [Profile](https://www.teamhitless.com/project/Neimex23/)
-
-- 🎧 I'm Pianist i love the music and play a hard and beautiful sheets of Classicals and VideoGames OST
-- 🎦 I love Movies,Series and Anime a good story is a good time for me
-
-
-## Knowledge
 ### Code Languages:
+- **C / C++**: OOP, classes, iterators, multithreading
+- **C# (.NET Framework)**: WinForms, WPF, multithreading, DLL integration, backend connectivity
+- **SQL (PostgreSQL, MySQL)**: DML & DDL, stored procedures, views, PGAdmin, MySQL Workbench
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C++_Logo.svg/800px-ISO_C++_Logo.svg.png" alt="drawing" width="50"/>
+### IDEs Used:
+- Visual Studio 2022  
+- Visual Studio Code  
+- Makefile creation & configuration
 
-C and C++ with Poo, Class and Iterators usages.
+### Tools & Programs:
+- 🖌️ Photoshop, Premiere Pro  
+- 🎙️ Audacity, OBS Studio  
+- 📄 Microsoft 365 (Excel, Word), Google Workspace (Drive, Docs, Sheets)
 
-<img src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="drawing" width="100"/>
+---
 
-WinForms, WPF, .Net Framework 4.8, Multi threading programming, Using of Dlls, and good connections to BackEnd.
+## 📜 Certificates
+- **Computer Technician** (Building/Repairing PCs & Laptops) – UTU Malvín Norte / ANTEL USI  
+- **English Basic 3 Certificate** – Your Place Institute, Montevideo
+- **Computer Technologist** – Pursuing a degree focused on strengthening software development and programming skills **(Current Cursing)**
 
-<img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" alt="drawing" width="100"/>
-SQL DML and DLL Knowledeage 
-	
- - PGADmin and MySQL
-   
-<img src="https://www.todopostgresql.com/wp-content/uploads/2018/08/cursoPgAdmin4.png" alt="drawing" width="100"/> <img src="https://banner2.cleanpng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg" alt="drawing" width="100"/>
+---
 
+## 💼 Personal Projects
 
+### 🔧 [AutoSplitterCore](https://github.com/topeterk/HitCounterManager)
+Add-on for HitCounterManager. Automatically splits based on game events using threading and serialization.  
+> **Language**: C# | **License**: MIT
 
+### 🛠️ RepairForm
+Internal program for ResonetSA. Manages diagnostics and repairs of POS devices, automates Excel tracking, Azure Graph login, OneDrive integration, and more.  
+> **Language**: C# | **License**: Private
 
-### Ides Used:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="drawing" width="100"/>
+### 🧾 NETEmpleados
+Desktop application for employee and department management built during a technical challenge. Features WinForms UI, PostgreSQL backend, and salary/antiquity calculations.  
+> **Language**: C# (.NET Framework 4.8) | **License**: Open Source
 
-Visual Studio 2022 and Visual Studio Codes, Make Files Creation 
+---
 
-## Others Programs:
+## 🎓 Academic Projects
+- **BD2 Obligatorios**: Stored Procedures, DML/DDL in MySQL
+- **Redes Lab**: WebSockets and TCP with C++
+- **Lab-PAV**: OOP, Iterators, Layers, Singleton patterns in C++
+- **Lab-PAP**: JSP/Servlet Java (Web & Desktop hybrid)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Adobe_Photoshop_Express_logo.svg" alt="drawing" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/1200px-Adobe_Premiere_Pro_Logo.svg.png" alt="drawing" width="100"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Audacity_Logo_With_Name.png" alt="drawing" width="150"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/1024px-OBS.svg.png" alt="drawing" width="100"/>
+---
 
-- Media Creator and Editor, i'm Streamer and Youtuber so far, about 7 years
-  
-<img src ="https://www.formation-cad.com/wp-content/uploads/2023/07/Cours-Formation-CAD-Microsoft-365-Office.png" alt="drawing" width="100"/> 
+## ☕ Donations
+If you like what I do and want to support me:  
+<a href="https://ko-fi.com/neimex23">
+  <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Ko-fi" width="100"/>
+</a>
+---
 
-- Office World 365, some Excel, Google Drive, Gmail, Youtube, Docs, Sheets and Forms
-
-## Certificates
-- Computer Technician to build and repair Laptop and Desktop Computers on Utu Malvin Norte (Inclusion Digital - Antel Usi)
-- Certificate Basic 3 of English on "Your Place" Montevideo, Uruguay
-
-# Personal Projects
-* **AutoSplitterCore**: Addons of [HitCounterManager](https://github.com/topeterk/HitCounterManager "HitCounterManager") 
-[Program that display Split with Name Information that Count Hits in Games]
-My Addon give the possibility to Automatically split when an event happen in a game, Using a Threading System and Serialization
-  - Developed in: C#
-  - License: MIT (Open Source)
-* **RepairForm**: Program for ResonetSA Enterprise that manage a excel repair of POS, manages repairs and diagnostics of POS equipment. The program facilitates the management of spare parts, dates and budgets, in addition to automating several essential sub-processes. Using CloseXML (Excel Managment), Graph Api (For Login Azure), One Drive Integration (Storage Files).
-	- Developed in: C#
-	- License: Private
-
-## Academy Projects
-- BD2 Obligatorios: Store Procedures, DLL and DML Resolutions on MySql
-- Redes Lab: Web Sockets Resolution on C++
-- Lab-Pav: Poo and iterators usage, Ncapes, Singletons on C++
-- Lab-Pap: JSP-Servlet java Web and Desktop application
-
-## Donations
-<img src ="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="drawing" width="100"/> 
-If You Like my work and you want support me you can donate here:
-https://ko-fi.com/neimex23
-
-##
-To the Top not miss the Hope :)
+> 🌟 To the top — never lose hope!
