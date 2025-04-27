@@ -49,7 +49,7 @@ I love programming, solving complex problems, and of course—gaming!
 
 ## 💼 Personal Projects
 
-### 🔧 [AutoSplitterCore](https://github.com/topeterk/HitCounterManager)
+### 🔧 [AutoSplitterCore](https://github.com/neimex23/AutoSplitterCore)
 Add-on for HitCounterManager. Automatically splits based on game events using threading and serialization.  
 > **Language**: C# | **License**: MIT
 
