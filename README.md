@@ -24,8 +24,9 @@ I love programming, solving complex problems, and of course—gaming!
 ## 👨‍💻 Knowledge
 
 ### Code Languages:
-- **C / C++**: OOP, classes, iterators, multithreading
+- **C / C++**: POO, classes, iterators, multithreading
 - **C# (.NET Framework)**: WinForms, WPF, multithreading, DLL integration, backend connectivity, IPC, WebSockets
+- **Java**: Poo, classes, Jquery, ORM
 - **SQL (PostgreSQL, MySQL)**: DML & DDL, stored procedures, views, PGAdmin, MySQL Workbench
 - **Google/Azure Api**: Login, Upload/Download Files, Databases
 - **AWS**: Cloud Practitioner: EC2, S3, RDS, Lambda,etc (Curring learning)
