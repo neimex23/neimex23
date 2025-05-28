@@ -25,18 +25,22 @@ I love programming, solving complex problems, and of course—gaming!
 
 ### Code Languages:
 - **C / C++**: OOP, classes, iterators, multithreading
-- **C# (.NET Framework)**: WinForms, WPF, multithreading, DLL integration, backend connectivity
+- **C# (.NET Framework)**: WinForms, WPF, multithreading, DLL integration, backend connectivity, IPC, WebSockets
 - **SQL (PostgreSQL, MySQL)**: DML & DDL, stored procedures, views, PGAdmin, MySQL Workbench
+- **Google/Azure Api**: Login, Upload/Download Files, Databases
+- **AWS**: Cloud Practitioner: EC2, S3, RDS, Lambda,etc (Curring learning)
 
 ### IDEs Used:
 - Visual Studio 2022  
-- Visual Studio Code  
+- Visual Studio Code
+- Eclipse
+- Netbeans
 - Makefile creation & configuration
 
 ### Tools & Programs:
 - 🖌️ Photoshop, Premiere Pro  
 - 🎙️ Audacity, OBS Studio  
-- 📄 Microsoft 365 (Excel, Word), Google Workspace (Drive, Docs, Sheets)
+- 📄 Microsoft 365 (Excel, Word, PowerPoint), Google Workspace (Drive, Docs, Sheets)
 
 ---
 
